@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <i>“Code is not just logic, it’s storytelling for machines.”</i> ✨
+  <i>"Code is not just logic, it's storytelling for machines."</i> ✨
 </p>
 
 ---
@@ -29,7 +29,7 @@
 📄 **Resume**  
 👉 [Download Resume](./resume.pdf)
 
-> ⚠️ Upload a file named `resume.pdf` in this repo for the link to work.
+
 
 ---
 
@@ -58,14 +58,15 @@ fun_fact: Drinks more coffee than water ☕
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
 </p>
 
 ---
@@ -77,12 +78,8 @@ fun_fact: Drinks more coffee than water ☕
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ady-OZz&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
----
-
-## 📌 GitHub Metrics (Summary Card)
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/Ady-OZz?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FKolkata" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ady-OZz&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
@@ -98,7 +95,7 @@ fun_fact: Drinks more coffee than water ☕
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityasridharofficial?theme=dark&font=Baloo" />
+  <img src="https://leetcard.jacoblin.cool/adityasridharofficial?theme=dark&font=Baloo&ext=activity" />
 </p>
 
 ---
@@ -127,21 +124,23 @@ fun_fact: Drinks more coffee than water ☕
 
 <p align="center">
   <a href="https://skyline.github.com/Ady-OZz/2024">
-    <img width="130" src="https://github.com/Ady-OZz.png" alt="View Skyline" />
+    <img src="https://skyline.github.com/Ady-OZz/2024.png" alt="2024 GitHub Skyline" width="600"/>
   </a>
 </p>
+
+> Click to view your GitHub contributions in 3D!
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=radical&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=radical&margin-w=10&no-frame=true&row=2&column=3" />
 </p>
 
 ---
 
-## 🔝 Top Project
+## 📌 Top Project
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ady-OZz&repo=jravel&theme=gruvbox&hide_border=true" />
@@ -149,8 +148,34 @@ fun_fact: Drinks more coffee than water ☕
 
 ---
 
-## 👀 Profile Views
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/Ady-OZz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adityasridharofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ady_ozz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💖 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ady-OZz&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ady-OZz&icon=0&color=12"/>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Ady-OZz">Ady-OZz</a> - Open to collaboration and exciting opportunities!</i>
 </p>
