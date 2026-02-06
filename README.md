@@ -73,12 +73,20 @@ fun_fact: Drinks more coffee than water ☕
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ady-OZz&show_icons=true&theme=gruvbox&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ady-OZz&layout=compact&theme=gruvbox" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ady-OZz&show_icons=true&theme=gruvbox&include_all_commits=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ady-OZz&layout=compact&theme=gruvbox&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ady-OZz&theme=gruvbox" />
+</p>
+
+---
+
+## 📌 GitHub Metrics (Summary Card)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Ady-OZz?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
@@ -122,7 +130,13 @@ fun_fact: Drinks more coffee than water ☕
 ## 🏙️ GitHub Skyline
 
 <p align="center">
-  <img src="https://skyline.github.com/Ady-OZz/2024.png" />
+  <a href="https://skyline.github.com/Ady-OZz/2024">
+    <img src="https://github.com/Ady-OZz.png" width="120" />
+  </a>
+</p>
+
+<p align="center">
+  👉 Click to view my 3D GitHub Skyline
 </p>
 
 ---
