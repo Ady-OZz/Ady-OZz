@@ -113,7 +113,9 @@ fun_fact: Drinks more coffee than water ☕
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ady-OZz/Ady-OZz/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ady-OZz/Ady-OZz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
