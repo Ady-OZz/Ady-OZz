@@ -73,12 +73,8 @@ fun_fact: Drinks more coffee than water ☕
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ady-OZz&show_icons=true&theme=gruvbox&include_all_commits=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ady-OZz&layout=compact&theme=gruvbox&cache_seconds=1800" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ady-OZz&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ady-OZz&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ady-OZz&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -94,7 +90,7 @@ fun_fact: Drinks more coffee than water ☕
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdyOZz&theme=gruvbox&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdyOZz&theme=gruvbox&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -102,7 +98,7 @@ fun_fact: Drinks more coffee than water ☕
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityasridharofficial?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/adityasridharofficial?theme=dark&font=Baloo" />
 </p>
 
 ---
@@ -131,12 +127,8 @@ fun_fact: Drinks more coffee than water ☕
 
 <p align="center">
   <a href="https://skyline.github.com/Ady-OZz/2024">
-    <img src="https://github.com/Ady-OZz.png" width="120" />
+    <img width="130" src="https://github.com/Ady-OZz.png" alt="View Skyline" />
   </a>
-</p>
-
-<p align="center">
-  👉 Click to view my 3D GitHub Skyline
 </p>
 
 ---
@@ -144,7 +136,7 @@ fun_fact: Drinks more coffee than water ☕
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=radical&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -152,7 +144,7 @@ fun_fact: Drinks more coffee than water ☕
 ## 🔝 Top Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ady-OZz&repo=jravel&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ady-OZz&repo=jravel&theme=gruvbox&hide_border=true" />
 </p>
 
 ---
