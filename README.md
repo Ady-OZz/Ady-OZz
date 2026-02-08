@@ -76,13 +76,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ady-OZz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ady-OZz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ady-ozz&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ady-ozz&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ady-ozz&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=1800" />
 </div>
+
 
 
 <h2 align="center">🧠 LeetCode Stats</h2>
