@@ -93,9 +93,6 @@
 </p>
 
 <!-- Goku Running GIF (stable link) -->
-<div align="center">
-  <img height="200" src="https://i.imgur.com/0tD9S8T.gif" />
-</div>
 
 <!-- Footer Border -->
 <div>
