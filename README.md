@@ -80,6 +80,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ady-OZz&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ady-OZz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+
 <h2 align="center">🧠 LeetCode Stats</h2>
 
 <div align="center">
