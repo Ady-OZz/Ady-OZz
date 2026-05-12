@@ -73,14 +73,17 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+- 🌐 Portfolio site → https://aditya-sridhar-portfolio.vercel.app/
 - 💸 Expense Tracker → https://github.com/Ady-OZz/Expense-Tracker  
-- ♟️ Chess Site → https://github.com/Ady-OZz/chess-site  
+- ♟️ Chess Site → https://github.com/Ady-OZz/chess-site
+- 📋 Task Manager → https://task-manager-xwlv.vercel.app/
+  
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ady-ozz&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com/?user=ady-ozz&theme=tokyonight&cache_seconds=1800" />
+ <!-- Tech Stack <img src="https://streak-stats.demolab.com/?user=ady-ozz&theme=tokyonight&cache_seconds=1800" />--> 
 </div>
 
 <div align="center">
