@@ -80,7 +80,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ady-ozz&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ady-ozz&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=ady-ozz&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 <div align="center">
