@@ -24,7 +24,7 @@
 
 <div align="center">
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/16XOq9wREqh8n8GjTeMRrGj3m4SOTgn54/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/19oWSfeielzVApqE094LbzLFmvuj5e0uc/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </div>
